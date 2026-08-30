@@ -1,0 +1,10 @@
+/build/
+/.qtc_clangd/
+*.user
+*.user.*
+*.autosave
+*.exe
+*.dll
+*.pdb
+*.obj
+*.o
